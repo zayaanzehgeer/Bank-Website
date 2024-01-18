@@ -28,7 +28,7 @@ const Hero = () => {
           Payment Method.
         </h1>
         <p className={`${styles.paragraph} max-w-[470px] mt-5`}>
-          Credit for this making this website goes to the Youtube channel "JavaScript Mastery", I Zayaan Zehgeer merely cloned it as taught in the video.
+          Credit for designing this website goes to the Youtube channel JavaScript Mastery, I Zayaan Zehgeer merely cloned it as taught in the video.
         </p>
       </div>
 
