@@ -1,6 +1,6 @@
 import { card } from "../assets";
 import styles, { layout } from "../style";
-import Button from "./Button";
+import Button from "./button";
 
 const CardDeal = () => (
   <section className={layout.section}>
